@@ -2,3 +2,6 @@ Version02 of NewText
 Version01
 Data1
 Data2
+Number1
+Number2
+Number3
